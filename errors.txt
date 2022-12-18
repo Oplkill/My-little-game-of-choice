@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 37: end of line expected.
+    char_narrator "К его удивлению, визитная карточка была полностью белой. Без всяких лишних слов, по центру, большими буквами было написано: """
+                                                                                                                                                ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Fri Nov 18 22:36:40 2022
